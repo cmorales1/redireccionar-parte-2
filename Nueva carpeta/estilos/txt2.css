@@ -1,0 +1,94 @@
+.fondobio {
+	background: url("../imagenes/fondo.png");
+}
+
+.left {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 5%;
+	top: -100px;
+}
+
+
+.cuadro3 {
+	width: 650px;
+	height: 210px;
+	background: white;
+	opacity: 0.7;
+	box-shadow: -5px 5px 10px #000;
+	color: #000 ;
+
+}
+
+.icono1 {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 300px;
+	top: 500px;
+}
+
+.triangulo {
+	width: 0; 
+     height: 0; 
+     border-left: 125px solid #135981;
+     border-top: 70px solid transparent;
+     border-bottom: 70px solid transparent;
+
+}
+
+.cuadro2 {
+	width: 650px;
+	height: 210px;
+	background: white;
+	opacity: 0.7;
+	box-shadow: -5px 5px 10px #000;
+	color: #000 ;
+
+}
+
+.left2 {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 5%;
+	top: 125px;
+}
+.mover {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: -10%;
+	top: 250px;
+}
+
+.mover2 {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 20%;
+	top: 138px;
+}
+
+.mover3 {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: -45%;
+	top: -250px;
+}
+
+.mover4{
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 5%;
+	top: -555px;
+}
+
+.imagen3 {
+	z-index: -1000;
+	position: absolute;
+}
+
